@@ -6,7 +6,7 @@
 xcuserdata/
 
 ZestMaps.xcodeproj/project.xcworkspace/xcshareddata/*
-
+ZestSampleProject.xcodeproj/project.xcworkspace/xcuserdata/*
 ## Obj-C/Swift specific
 *.hmap
 
