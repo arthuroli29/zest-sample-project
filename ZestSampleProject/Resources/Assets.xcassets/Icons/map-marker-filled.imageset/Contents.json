@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "map-marker-filled.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

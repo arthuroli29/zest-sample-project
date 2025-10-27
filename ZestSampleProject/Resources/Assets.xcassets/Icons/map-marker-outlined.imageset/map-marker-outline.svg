@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+  <!-- Outer red pin shape -->
+  <path
+    d="M12 2a7 7 0 0 1 7 7c0 5.25-7 13-7 13S5 14.25 5 9a7 7 0 0 1 7-7z"
+    fill="#e82f31"
+  />
+  <!-- Inner white area to create the outline look -->
+  <path
+    d="M12 4a5 5 0 0 0-5 5c0 1 0 3 5 9.71 5-6.71 5-8.71 5-9.71a5 5 0 0 0-5-5z"
+    fill="white"
+  />
+  <!-- Inner red circle -->
+  <circle cx="12" cy="9" r="2.5" fill="#e82f31" />
+</svg>

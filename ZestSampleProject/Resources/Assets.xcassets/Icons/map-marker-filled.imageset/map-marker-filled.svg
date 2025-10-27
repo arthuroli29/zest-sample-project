@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+  <!-- Outer white border -->
+  <path
+    d="M12 2a7 7 0 0 1 7 7c0 5.25-7 13-7 13S5 14.25 5 9a7 7 0 0 1 7-7z"
+    fill="white"
+  />
+  <!-- Inner red area (lifted slightly from full tip contact) -->
+  <path
+    d="M12 3a6 6 0 0 0-6 6c0 1.4 0 5 6 11.5 6-6.5 6-10.1 6-11.5A6 6 0 0 0 12 3z"
+    fill="#e82f31"
+  />
+  <!-- Inner white circle -->
+  <circle cx="12" cy="9" r="2" fill="white" />
+</svg>
